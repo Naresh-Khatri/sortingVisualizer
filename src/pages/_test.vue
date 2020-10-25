@@ -123,7 +123,6 @@ body {
 
 .chart{
   display: flex;
-  flex-direction:row-reverse
 }
 .bar {
   width: 28px;
